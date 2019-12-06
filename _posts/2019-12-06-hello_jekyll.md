@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "試しにjekyllでブログを立ててみた話"
+permalink: /hello-jekyll
 ---
 
 タイトルの通りなんですけどjekyllでブログを立ち上げてみました。
