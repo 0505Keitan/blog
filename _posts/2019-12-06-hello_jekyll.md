@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "試しにjekyllでブログを立ててみた話"
-permalink: /hello-jekyll
+title: 試しにJekyllでブログを立ててみた話
+date: 2019-12-06 01:00
+permalink: hello-jekyll
+tags: Jekyll
 ---
 
 タイトルの通りなんですけどjekyllでブログを立ち上げてみました。

@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "GitHubの草とJekyll"
-permalink: /github-and-jekyll
+title: GitHubの草とJekyll
+date: 2019-12-08 00:00
+permalink: github-and-jekyll
+tags: Jekyll GitHub
 ---
 
 ちょっとづつデザインとかカスタマイズしていこうと思ったんだけど、これ毎日書いたらGitHubの草生やせるんじゃねと思ったこの時。

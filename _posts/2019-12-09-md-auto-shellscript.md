@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  '記事の雛形を作ってくれるShellScriptを書いた'
-date:   2019-12-09 12:35
-permalink: 'md-auto-shellscript'
+title:  記事の雛形を作ってくれるShellScriptを書いた
+date: 2019-12-09 00:00
+permalink: md-auto-shellscript
+tags: Develop ShellScript
 ---
 記事の通りです。多分めんどくさいのでほとんど使わないかも()
 
