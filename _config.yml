@@ -21,7 +21,7 @@
 title: 0505Keitan's Blog
 email: contact@0505Keitan.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Qiita書くほどでもないし、Tweetするほどでもないことを書いて行くところ
+  Qiita書くほどでもないし、Tweetするほどでもないことを書いていくところ
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://0505Keitan.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 0505Keitan
@@ -32,6 +32,8 @@ instagram_username: 0505.keitan
 theme: minima
 plugins:
   - jekyll-feed
+
+lang: ja
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -52,3 +54,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+gems:
+  - jekyll-seo-tag

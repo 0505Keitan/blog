@@ -1,0 +1,52 @@
+body {
+    background-color: #fffcf9;
+}
+
+.site-header {
+    background-color: #bfffc9;
+}
+
+.site-footer {
+    background-color: #bfffc9;
+}
+
+.post-list > li {
+    padding: 10px;
+    border: 1px solid #d8d8d8;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.post-link {
+    font-size: 27px;
+}
+
+.post-meta {
+    font-size: 18px;
+    margin-right: 6px;
+}
+
+.post-tag {
+    background-color: #bfffc9;
+    margin-right: 8px;
+    padding: 2px 3px;
+    border-radius: 5px;
+}
+
+.post-share {
+    color: #707070;
+    font-size: 40px;
+    letter-spacing: -1px;
+    padding: 20px 0 0 0;
+}
+
+.tags {
+    margin: 10px 0;
+}
+
+.tag {
+    background-color: #bfffc9;
+    margin-right: 8px;
+    padding: 3px;
+    border-radius: 5px;
+}
