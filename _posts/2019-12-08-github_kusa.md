@@ -10,6 +10,6 @@ permalink: /github-and-jekyll
 
 一応草でものっけとくか....
 
-![草](https://grass-graph.moshimo.works/images/0505Keitan.png?background=none&width=999999999)
+![草](https://grass-graph.moshimo.works/images/0505Keitan.png?background=white&width=999999999)
 
 今日はこれまで。
