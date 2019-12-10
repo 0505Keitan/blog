@@ -1,0 +1,2 @@
+![CI](https://github.com/0505Keitan/blog/workflows/Jekyll%20CI/badge.svg)
+![Post Count](https://img.shields.io/badge/dynamic/json.svg?label=Post%20Count&colorB=24bd4d&query=$.posts&uri=https%3A%2F%2F0505Keitan.com%2Fblog%2Fapi.json)
