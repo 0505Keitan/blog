@@ -1,0 +1,6 @@
+---
+permalink: /api.json
+---
+{
+    "posts": {{ site.posts.size }}
+}
