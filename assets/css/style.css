@@ -4,6 +4,10 @@ body {
     background-color: #fffcf9;
 }
 
+.post-img {
+    width: 50%;
+}
+
 .site-header {
     background-color: #bfffc9;
 }
