@@ -15,7 +15,7 @@ GoogleフォームはURL指定で事前に入力されてるものを代入す�
 
 今回は以下の画像を例にやって行く。
 
-<img src="assets/images/2019-12-12.png" width="50%">
+<img class="post-img" src="assets/images/2019-12-12.png">
 
 ボタンがあるところは
 
@@ -49,7 +49,7 @@ https://docs.google.com/forms/d/e/....../viewform?usp=pp_url&entry.2071424204=%E
 
 ### 送信
 
-送信ボタンはgetElementのclassname指定で`quantumWizButtonPaperbuttonFocusOverlay`と`exportOverlay`をclick()する。
+送信ボタンはgetElementのclassname指定でquantumWizButtonPaperbuttonFocusOverlayとexportOverlayをclick()する。
 
 ```
 document.getElementsByClassName('quantumWizButtonPaperbuttonFocusOverlay exportOverlay')[0].click()
