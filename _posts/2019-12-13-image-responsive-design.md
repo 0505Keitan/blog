@@ -22,3 +22,7 @@ cssにこのコードを足しただけ。
     }
 }
 ```
+
+以下サンプル画像。PCで見るときは50%、スマホなどwidthが500px以下の場合はフルで表示されるはず。
+
+<img class="post-img" src="assets/images/2019-12-16.png">
