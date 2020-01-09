@@ -63,7 +63,7 @@ $ echo 'm 17 w   w 17 0   m 18 r   pud 18 u' > /dev/pigpio
 # 信号記録
 
 ```shell
-$ python3 irrp.py -r -g18 -f codes air_con:on --post 50
+$ python3 irrp.py -r -g18 -f codes air_con:on --no-confirm --post 50
 ```
 
 |オプション|意味|
