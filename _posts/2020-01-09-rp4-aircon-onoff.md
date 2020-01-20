@@ -17,6 +17,12 @@ tags: Develop
 
 2020年最初の記事ですね。今年も色々作っていきます！
 
+# 使用機材
+
+ - [RaspberryPi4B (4GB)](https://www.amazon.co.jp/gp/product/B07YM3Z2QR)
+ - [Pi 3 DIY Kit(22in1)](https://www.amazon.co.jp/gp/product/B01M6ZFNSS)
+ - 赤外線LED - 503IRC2E-2AC
+
 # pigpioの導入
 
 まずはGPIOピンを制御するために`pigpio`を導入
@@ -40,7 +46,10 @@ $ sudo systemctl start pigpiod
 $ curl http://abyz.me.uk/rpi/pigpio/code/irrp_py.zip | zcat > irrp.py
 ```
 
-なぜか私の環境だとタイムアウトするのでMacでダウンロード、unzipしてラズパイにscpした。
+~~なぜか私の環境だとタイムアウトするのでMacでダウンロード、unzipしてラズパイにscpした。~~
+
+失敗した理由がわかりました。IP固定するために色々いじってた結果DNSサーバーの指定をしていなかった?っぽかったです。
+多分このままでもうまくいきます。
 
 # 配線
 
