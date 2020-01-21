@@ -12,4 +12,4 @@ tags: Develop 進捗
 
 これです。以上。
 
-<img class="post-img" src="assets/images/2020-01-21-02.jpg">
+<img class="post-img" src="assets/images/2020-01-21-02.JPG">
