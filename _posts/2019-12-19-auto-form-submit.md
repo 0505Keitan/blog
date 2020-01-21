@@ -3,7 +3,7 @@ layout: post
 title:  自動でフォームを送信する
 date: 2019-12-19 01:00
 permalink: auto-form-submit
-tags: Tips Develop
+tags: Tips Develop 進捗
 ---
 <a href="auto-googleform-submit">Googleformを半自動で送信する</a>の第二弾記事になるのでしょうか？
 

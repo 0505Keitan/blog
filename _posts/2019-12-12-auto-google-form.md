@@ -3,7 +3,7 @@ layout: post
 title:  Googleformを半自動で送信する
 date: 2019-12-12 00:00
 permalink: auto-googleform-submit
-tags: Tips Develop
+tags: Tips Develop 進捗
 ---
 授業開始時に送らないといけないフォームを半自動化した。
 

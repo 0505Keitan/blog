@@ -3,7 +3,7 @@ layout: post
 title:  ナポアンDiscordサーバーの荒らし対策について
 date: 2020-01-20 00:00
 permalink: napoan-discord-auth
-tags: Develop
+tags: Develop 進捗
 ---
 マイクラ界で意外と有名な<a href="https://napoan.com">ナポアン</a>氏はDiscordサーバーをやっていて、そのサーバーの技術担当してるんですけど、そこで結構前からやってる荒らし対策について書きます。多分。
 
