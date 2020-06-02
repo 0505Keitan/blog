@@ -3,7 +3,7 @@ layout: post
 title:  新学期が始まった。
 date: 2020-06-02 00:00
 permalink: start-new-semester
-tags: Blog
+tags: Blog 進捗
 ---
 最後の記事から5ヶ月弱たってしまいました。
 
