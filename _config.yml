@@ -23,10 +23,12 @@ email: contact@0505Keitan.com
 description: >- # this means to ignore newlines until "baseurl:"
     Qiita書くほどでもないし、Tweetするほどでもないことを書いていくところ
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://0505Keitan.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.0505Keitan.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 0505Keitan
 github_username:  0505Keitan
 instagram_username: 0505.keitan
+
+google_analytics: UA-104906538-15
 
 # Build settings
 theme: minima
