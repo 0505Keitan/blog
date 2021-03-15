@@ -8,6 +8,8 @@ tags: Blog
 
  - 2021/03/14 22:46
     - パーティションとラックと現用テープについてを追加
+ - 2021/03/15 11:20
+    - 結構重要なMicroSDカードが抜けていました。申し訳ありません。
 
 IPAとNTT東がやっている「シン・テレワークシステム」のラズパイ周りの構成を~~特定~~探してみる。
 
@@ -66,22 +68,28 @@ Amazonで適当に`透明 ブックスタンド`で検索したらそれっぽ�
 ### ヒートシンク
 ヒートシンクに関しては先ほどのマゼランの羅針盤に出てきたシーンで左側にMHQJRHという文字が確認できる。検索すると、[Amazon](https://amzn.to/2NhKNgz)にて同様のヒートシンクが確認できた。(しかし、バカ高いぞ？？？)
 
+### Micro SD
+MicroSDに関しては、いろいろなものを使っているらしく、一つに縛ることはできなかった。
+
+図4(右側)と図5(右のゴミ箱)にさらっとSanDiskのパッケージ(32GBモデル)らしきものと本体が見えているので、[サンディスク microSD 32GB UHS-I Class10](https://amzn.to/3cy2p06)を使っていることは確認できた。
+
 # まとめ
 
-| 製品            | Amazon                  | 値段   |
-|:---------------|-------------------------|--------|
+| 製品            | Amazon                                             | 値段    |
+|:---------------|----------------------------------------------------|--------|
 |LANスイッチングハブ|[https://amzn.to/30EDSRH](https://amzn.to/30EDSRH)  |¥12,980 |
 |電源ケーブル       |[https://amzn.to/3ctE9fx](https://amzn.to/3ctE9fx) |¥586    |
-|電源ハブ         |[https://amzn.to/2Q2m1C5](https://amzn.to/2Q2m1C5)  | ¥3,699 |
-|LANケーブル(赤)   |[https://amzn.to/3lfbajC](https://amzn.to/3lfbajC)  | ¥715   |
-|LANケーブル(青)   |[https://amzn.to/38EsCcd](https://amzn.to/38EsCcd) | ¥686    |
+|電源ハブ         |[https://amzn.to/2Q2m1C5](https://amzn.to/2Q2m1C5)  |¥3,699  |
+|LANケーブル(赤)   |[https://amzn.to/3lfbajC](https://amzn.to/3lfbajC)  |¥715   |
+|LANケーブル(青)   |[https://amzn.to/38EsCcd](https://amzn.to/38EsCcd)  | ¥686   |
 |ラズパイ4        |[https://amzn.to/3qPrZCW](https://amzn.to/3qPrZCW)  | ¥6,875 |
 |ヒートシンク      |[https://amzn.to/2NhKNgz](https://amzn.to/2NhKNgz)  | ¥14,625|
-|パーティション    |[https://amzn.to/3voX8Ri](https://amzn.to/3voX8Ri)  | ¥731   |
-|現用テープ       |[https://amzn.to/3lhaR8c](https://amzn.to/3lhaR8c)  | ¥1,441~ |
-|合計            |                         |¥40,166  |
+|MicroSD         |[https://amzn.to/3cy2p06](https://amzn.to/3cy2p06)  |¥990    |
+|(パーティション)    |[https://amzn.to/3voX8Ri](https://amzn.to/3voX8Ri)  | (¥731)   |
+|(現用テープ)       |[https://amzn.to/3lhaR8c](https://amzn.to/3lhaR8c)  | (¥1,441~) |
+|合計            |                                                    |¥41,156  |
 
-[「シン・テレワークシステム」 セキュリティ機能の大規模アップデートと実証実験の現状報告について](https://telework.cyber.ipa.go.jp/news/20200514/)では`1 台あたりコストは、基板、ケース、ストレージ、電源、LAN ケーブルを合わせて 1.3 万円。`と書いてあるのに計算した結果¥40,166になってしまった。(パーティションと現用テープはのぞく)
+[「シン・テレワークシステム」 セキュリティ機能の大規模アップデートと実証実験の現状報告について](https://telework.cyber.ipa.go.jp/news/20200514/)では`1 台あたりコストは、基板、ケース、ストレージ、電源、LAN ケーブルを合わせて 1.3 万円。`と書いてあるのに計算した結果¥41,156になってしまった。(パーティションと現用テープはのぞく)
 
 おそらくマゼランの羅針盤にて`一部はもらったりしたもの`と登氏(役の俳優)は発言しているため、この値段だと考察できる。
 
